@@ -998,7 +998,7 @@ var ConsoleLogger = function () {
         key: "log",
         value: function log(logLevel, message) {
             if (logLevel >= this.minimumLogLevel) {
-                console.log(ILogger_1.LogLevel[logLevel] + ": " + message);
+                // console.log(ILogger_1.LogLevel[logLevel] + ": " + message);
             }
         }
     }]);
