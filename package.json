@@ -37,7 +37,7 @@
     "url": "git+https://github.com/matswainson/signalr-client-react.git"
   },
   "author": "Mat Swainson <mat@matswainson.com> (http://matswainson.com)",
-  "license": "Apache-2.0",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/matswainson/signalr-client-react/issues"
   },
