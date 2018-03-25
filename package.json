@@ -1,0 +1,45 @@
+{
+  "name": "signalr-client-react",
+  "version": "0.1.0",
+  "bundleDependencies": false,
+  "engines": {
+    "node": ">=8.10.0"
+  },
+  "dependencies": {
+    "msgpack5": "^3.5.0"
+  },
+  "description": "Fork of @asnpet/signalr-client with a few tweaks for usage in React apps",
+  "devDependencies": {
+    "@types/msgpack5": "^3.4.0",
+    "babel-minify": "^0.2.0",
+    "babel-plugin-transform-runtime": "^6.23.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babelify": "^7.3.0",
+    "browserify": "^13.1.1",
+    "buffer": "^5.0.7",
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^7.0.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-typescript": "^3.1.3",
+    "jasmine": "^2.5.2",
+    "lodash": "^4.17.4",
+    "typescript": "^2.0.10",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "main": "dist/src/index.js",
+  "scripts": {
+    "gulp": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matswainson/signalr-client-react.git"
+  },
+  "author": "Mat Swainson <mat@matswainson.com> (http://matswainson.com)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/matswainson/signalr-client-react/issues"
+  },
+  "homepage": "https://github.com/matswainson/signalr-client-react#readme"
+}
