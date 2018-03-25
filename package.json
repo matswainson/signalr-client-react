@@ -1,6 +1,6 @@
 {
   "name": "signalr-client-react",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "bundleDependencies": false,
   "engines": {
     "node": ">=8.10.0"
