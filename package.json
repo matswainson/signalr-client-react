@@ -28,7 +28,7 @@
     "vinyl-buffer": "^1.0.0",
     "vinyl-source-stream": "^1.1.0"
   },
-  "main": "dist/src/index.js",
+  "main": "dist/browser/signalr-clientES5-1.0.0-alpha2-final.js",
   "scripts": {
     "gulp": "gulp"
   },
